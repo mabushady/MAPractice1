@@ -1,6 +1,6 @@
 
 
-print("Yo Baby")
+print("Yo")
 
 print("the new world")
 sum = 2 + 2
